@@ -1,0 +1,22 @@
+body {
+  font-family: "Work Sans", serif;
+  overflow: hidden; 
+}
+
+#dialog {
+   padding-left: 2%;
+   padding-top: 2%;
+   padding-bottom: 2%;
+   width: 90%;
+   height: 80%;
+}
+
+h1 {
+  font-family: "League Script", serif;
+}
+
+.league-script-regular {
+    font-family: "League Script", serif;
+    font-weight: 400;
+    font-style: normal;
+}
