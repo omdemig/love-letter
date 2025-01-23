@@ -143,12 +143,12 @@ document.querySelector('button').addEventListener("click", function(e) {
         dg_looper++;
        }
     } if (chat == qualities.length-1) {
-        dg.innerText = "Dude, that's like, over 80.";
+        dg.innerText = "Dude, that's over 80.";
         gd.bring
         chat++;
         return;
     } if (chat == qualities.length) {
-       dg.innerText = "I'm going to have to start repeating them.";
+       dg.innerText = "They'll start repeating.";
        gd.innerText = "I'm ok with that. Again. More.";
        chat++;
        return;
