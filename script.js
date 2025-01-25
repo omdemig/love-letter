@@ -117,7 +117,8 @@ const qualities = [
     "makes me believe in the possibility of a creative life once again",
     "head smells good",
     "nice arms to be wrapped in",
-    "open-minded to inventions and solutions (e.g. ooler, but also acting techniques)"
+    "open-minded to inventions and solutions (e.g. ooler, but also acting techniques)",
+    "full of good ideas"
 ];
 
 let quallist = qualities.slice();
