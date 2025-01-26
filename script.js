@@ -108,7 +108,7 @@ const qualities = [
     "loves a stroll",
     "cares when it counts",
     "that look in your eye",
-    "encouraing through honesty",
+    "encouraging through honesty",
     "entertains adventerous whims",
     "low-key a land baron",
     "takes best efforts good care of who takes care of you - family, close friends etc.",
