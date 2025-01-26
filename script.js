@@ -59,7 +59,6 @@ const qualities = [
     "highly open to experience",
     "excessive humility regarding shortcomings and blindspots",
     "witty",
-    "well read",
     "makes me feel safe",
     "makes me feel beautiful",
     "makes me feel sexy (oo mama)",
